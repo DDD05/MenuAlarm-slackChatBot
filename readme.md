@@ -50,4 +50,4 @@
 
 ### 👓UI
 
-![image-20200327172155817](./picture/page1.jpg)
+![image-20200327172155817](./picture/page1.JPG)
