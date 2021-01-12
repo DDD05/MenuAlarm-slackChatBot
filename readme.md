@@ -4,7 +4,7 @@
 
 
 
-### 🔨Stack
+### 🔨 Stack
 
 - 언어
   - `Python`
@@ -12,7 +12,7 @@
 
 
 
-### 🔧Install
+### 🔧 Install
 
 - [Install python 3.6.8](https://www.python.org/downloads/release/python-368/)
 
@@ -32,7 +32,7 @@
 
 
 
-### 🔸Run
+### 🔸 Run
 
 - Chatbot Server
 
@@ -48,6 +48,6 @@
 
 
 
-### 👓UI
+### 👓 UI
 
 ![image-20200327172155817](./picture/page1.JPG)
